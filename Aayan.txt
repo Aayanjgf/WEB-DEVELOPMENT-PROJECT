@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang = "en">
+<style>
+
+.menu{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  background-color: rgb(2,0,0);
+  font-size: 70px;
+  font-family: sans-serif;
+  font-weight: bolder;
+  color: white;
+}
+
+.brain{
+background-color: orange; 
+font-family: cursive;
+}
+
+.old{
+background-color: pink;
+font-family: cursive;
+}
+
+.props{
+background-color: aquamarine;
+font-family: cursive;
+}
+
+body {
+  background: rgb(125,129,255);
+  font-family: monospace;
+}
+
+p {
+  color: green;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.the:hover{
+  padding: 30px;
+  color: maroon;
+ }
+
+h1 {
+  font-weight: bold;
+  align-content: flex-end;
+  align-items: center;
+  color: darkmagenta;
+  font-family: monospace;
+}
+
+h3 {
+  font-weight: bolder;
+  color: darkslategray;
+  font-family: cursive;
+}
+
+h4 {
+  font-size: 20;
+  font-weight: 800;
+  color: darkred;
+  font-family: inherit;
+}
+
+</style> 
+
+<head>
+<title>Famous Universites Around The World</title>
+</head>
+
+<body>
+<div class="menu">
+<h1>World's Top 3 Universities</h1>
+</div>
+ <img src="C:\Users\ukmondal\Desktop\Web Development Project\Html\memorial-lawn-zoom.jpg" alt="Image description"
+        height=800px width="100%">
+<div class = "the">
+<h3>In this website, we are going to show World's Top Famous 3 Universities, where students enroll from all around the world.
+These universities are dream universities of each and every students to get into it.  </h3></div>    
+  <h2>So Let's Begin....😎😃👍👌</h2>  
+ 
+<div class="brain">  
+<p><h1>1. Massachusetts Institute Of Technology</h1>
+<img src = "C:\Users\ukmondal\Desktop\Web Development Project\Html\mit.jpg" alt = "MIT University"
+         height=700px width="100%">
+<h4>Massachusetts Institute of Technology (MIT), privately controlled coeducational institution of higher learning famous for its scientific and technological training and research. It was chartered by the state of Massachusetts 
+in 1861 and became a land-grant college in 1863. William Barton Rogers, MIT’s founder and first president, had worked for years to organize an institution of higher learning devoted entirely to scientific and technical training, but the outbreak of the American Civil War delayed the opening of the school until 1865, when 15 students enrolled for the first classes, held in Boston. 
+MIT moved to Cambridge, Massachusetts, in 1916; its campus is located along the Charles River.</h4>
+ <h4>MIT has numerous research centres and laboratories. Among its facilities are a nuclear reactor, a computation centre, geophysical and astrophysical observatories, a linear accelerator, a space research centre, wind tunnels, an artificial intelligence laboratory, a centre for cognitive science, and an international studies centre. 
+MIT’s library system is extensive and includes a number of specialized libraries. There are also several museums.</h4><p/>
+    <h2>Programmes Offered: -</h2>
+    <p>1. B.E./B.Tech(4-6 Years) <p/>
+    <h5>1st Year Tuition Fee: ₹41.52 L - 44.74 L</h5>
+    <p>2. MS(1-5 Years) <p/>
+    <h5>1st Year Tuition Fee: ₹55 K - 43.12 L</h5>
+    <p>3. B.Sc(4 Years) <p/>
+    <h5>1st Year Tuition Fee: ₹41.52 L - 43.12 L</h5>
+    <p>4. MBA/PGDM(20 months-2 Years) <p/>
+    <h5>1st Year Tuition Fee: ₹61.33 L - 80.52 L</h5>
+    <p>5. MIM(9 months-2 Years) <p/>
+    <h5>1st Year Tuition Fee: ₹21.56 L - 63.89 L</h5>
+    <p>6. M.Arch(2 Years - 42 months) <p/>
+    <h5>1st Year Tuition Fee: ₹41.52 L - 43.12 L</h5>
+    <p>7. BBA(4 Years) <p/>
+    <h5>1st Year Tuition Fee: ₹41.52 L - 44.74 L</h5>
+    <p>8. M.E./M.Tech(9 months) <p/>
+    <h5>1st Year Tuition Fee: ₹41.52 L - 43.12 L</h5>
+ <a href = "https://www.mit.edu/">For More Information Visit Here...👍🏻</a>
+<h1>Awards and Recognitions: -</h1>
+ <h4>As of December 2021, 98 Nobel laureates, 26 Turing Award winners, and 8 Fields Medalists have been affiliated with MIT as alumni, faculty members, or researchers. In addition, 58 National Medal of Science recipients, 29 National Medals of Technology and Innovation recipients, 50 MacArthur Fellows, 80 Marshall Scholars, 41 astronauts, 16 Chief Scientists of the U.S. Air Force,
+ and numerous heads of states have been affiliated with MIT. 
+The institute also has a strong entrepreneurial culture and MIT alumni have founded or co-founded many notable companies. 
+MIT is a member of the Association of American Universities (AAU) and has received more Sloan Research Fellowships than any other university in North America.</h4></div>
+
+<div class="old">
+<h1>2. University of Oxford</h1>
+<img src = "C:\Users\ukmondal\Desktop\Web Development Project\Html\Oxford.jpg" alt = "University Of Oxford"
+        height=600px width="100%">
+<h4>The University of Oxford is a collegiate research university in Oxford, England. There is evidence of teaching as early as 1096, making it the oldest university 
+in the English-speaking world and the world's second-oldest university in continuous operation. It grew rapidly from 1167 when Henry II banned English students 
+from attending the University of Paris. After disputes between students and Oxford townsfolk in 1209, some academics fled north-east to Cambridge where they 
+established what became the University of Cambridge. The two English ancient universities share many common features and are jointly referred to as Oxbridge.
+ Oxford is ranked among the most prestigious universities in the world.</h4>
+    
+  <h4>Oxford operates the world's oldest university museum, as well as the largest university press in the world and the largest academic library system nationwide. 
+In the fiscal year ending 31 July 2019, the university had a total income of £2.45 billion, of which £624.8 million was from research grants and contracts.</h4>
+    
+    <h2>Programmes Offered: -</h2>
+    <p>1. B.E./B.Tech(3-4 Years) <p/>
+    <h5>1st Year Tuition Fee: ₹35.18 L - 38.05 L</h5>
+    <p>2. MS(9 months- 3 Years) <p/>
+    <h5>1st Year Tuition Fee: ₹22.37 L - 39.5 L</h5>
+    <p>3. MBA/PGDM(12 months) <p/>
+    <h5>1st Year Tuition Fee: ₹63.91 L</h5>
+    <p>4. MIM(9-21 months) <p/>
+    <h5>1st Year Tuition Fee: ₹23.85 L - 47.47 L</h5>
+    <p>5. MBBS(6 Years) <p/>
+    <h5>1st Year Tuition Fee: ₹35.89 L</h5>
+    <p>6. BBA(3 Years) <p/>
+    <h5>1st Year Tuition Fee: ₹31.68 L</h5>
+    <p>7. MFA(9 months) <p/>
+    <h5>1st Year Tuition Fee: ₹26.78 L</h5>
+<a href = "https://www.ox.ac.uk/">For More Information Visit Here...👍🏻</a>
+ <h1>Awards and Recognitions: -</h1>
+  <h4>Oxford has educated a wide range of notable alumni, including 28 prime ministers of the United Kingdom and many heads of state and government around the world.
+ As of October 2020, 72 Nobel Prize laureates, 4 Fields Medalists, and 6 Turing Award winners have studied, worked, or held visiting 
+fellowships at the University of Oxford, while its alumni have won 160 Olympic medals. Oxford is the home of numerous scholarships, 
+including the Rhodes Scholarship, one of the oldest international graduate scholarship programmes.</h4></div>
+
+<div class="props">
+<p><h1>3. Stanford Universty</h1>
+<img src = "C:\Users\ukmondal\Desktop\Web Development Project\Html\stanford_campus_0.jpg" alt = "Stanford University"
+         height=600px width="100%">
+ <h4>Stanford University, officially Leland Stanford Junior University, is a private research university located in the census-designated place of Stanford, California, near the city of Palo Alto.
+ The campus occupies 8,180 acres (3,310 hectares), among the largest in the United States, and enrolls over 17,000 students. Stanford is ranked among the top universities in the world.</h4>
+    <h4>The university is organized around seven schools on the same campus: three schools consisting of 40 academic departments at the undergraduate level as well as four professional schools that focus on graduate programs in law,
+ medicine, education, and business. The university also houses the public policy think tank, the Hoover Institution.</h4><p/>
+
+    <h2>Programmes Offered: -</h2>
+    <p>1. B.E./B.Tech(4 Years) <p/>
+    <h5>1st Year Tuition Fee: ₹43.09 L</h5>
+    <p>2. MS(1-2 Years) <p/>
+    <h5>1st Year Tuition Fee: ₹23.08 L - 42.19 L</h5>
+    <p>3. B.Sc(4 Years) <p/>
+    <h5>1st Year Tuition Fee: ₹43.09 L</h5>
+    <p>4. MBA/PGDM(2 Years) <p/>
+    <h5>1st Year Tuition Fee: ₹58.03 L - 59.77 L</h5>
+    <p>5. MIM(9 months-2 Years) <p/>
+    <h5>1st Year Tuition Fee: ₹27.43 L - 1.03 Cr</h5>
+    <p>6. M.A.(1 Year - 2 years) <p/>
+    <h5>1st Year Tuition Fee: ₹23.08 L - 44.93 L</h5>
+    <p>7. BBA(4 Years) <p/>
+    <h5>1st Year Tuition Fee: ₹43.09 L</h5>
+    <p>8. MFA(2 Years) <p/>
+    <h5>1st Year Tuition Fee: ₹42.19 L</h5>
+<a href = "https://www.stanford.edu/">For More Information Visit Here...👍🏻</a>
+<h1>Awards and Recognitions: -</h1>
+    <h4>As of April 2021, 85 Nobel laureates, 29 Turing Award laureates, and eight Fields Medalists have been affiliated with Stanford as students, alumni, faculty, or staff. In addition, Stanford is particularly noted for its entrepreneurship and is one of the most successful universities in 
+  attracting funding for start-ups.
+ Stanford alumni have founded numerous companies, which combined produce more than $2.7 trillion in annual revenue and have created 5.4 million jobs as of 2011, roughly equivalent to the 7th largest economy in the world (as of 2020). Stanford is the alma mater of U.S. President Herbert Hoover, 
+74 living billionaires, and 17 astronauts. It is also one of the leading producers of Fulbright Scholars, Marshall Scholars, Rhodes Scholars, and members of the United States Congress.</h4></div>
+
+    
+    <h1>Hope You Liked It...😅😀😎😊</h1>
+    <h2>So, which college are you going to choose?😁😁</h2>
+
+</body>
+
+
+</html>
